@@ -22,7 +22,7 @@ import MyVanPricing from './Pages/Host/myVanPricing';
 import MyVanPhotos from './Pages/Host/myVanPhotos';
 
 // loaders 
-import HomeVanLoader from './Components/Loaders/homeVanLoader'; 
+import HomeVanLoader from './Components/Loaders/HomeVanLoader'; 
 import VanDetailsLoader from './Components/Loaders/HomeVanDetailsLoader';
 import HostDetails_VansLoader from './Components/Loaders/HostDetailsLoader';
 import HostVanIdLoader from "../src/Components/Loaders/HostVanIdLoader";
